@@ -1,0 +1,2 @@
+# ISLPlayerList
+We developed an Android application for scouts to help identify or search for players in deep  regions of India. The database for these players was sourced from a state level recognized club  and was targeted to a central database. The aim was to give exposure to more Indian born  talented players in the Indian Super League Tournament. The project was one of the three top  projects of the department.
